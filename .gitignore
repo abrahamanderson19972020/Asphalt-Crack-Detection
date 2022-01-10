@@ -1,0 +1,6 @@
+.vscode
+tools/out
+tools/test
+Examples/out
+*.mp4
+*.rar
